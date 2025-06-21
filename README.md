@@ -75,7 +75,7 @@ Key steps performed in `clean_data.ipynb`:
 
 ### 📷 Dashboard Preview
 
-![Dashboard Screenshot](![Screenshot 2025-06-21 110834](https://github.com/user-attachments/assets/a678494b-d22b-4f69-aa22-5d9742cd87c9))
+(![Screenshot 2025-06-21 110834](https://github.com/user-attachments/assets/a678494b-d22b-4f69-aa22-5d9742cd87c9))
 
 ---
 
